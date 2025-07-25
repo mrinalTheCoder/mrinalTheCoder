@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mrinalTheCoder/mrinalTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="90" height="36" alt="image" src="https://github.com/user-attachments/assets/e483c295-2bcf-4c72-b81f-890194e0623f" />
